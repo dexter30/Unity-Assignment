@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\UIcode\UpdateScore.cs">
+    <Files>
+      <File FileName="Assets\Scripts\touchCode\BoxToTouch.cs" Line="27" Column="76" />
+      <File FileName="Assets\Scripts\UIcode\healthOrb.cs" Line="36" Column="1" />
+      <File FileName="Assets\Scripts\UIcode\HelpScreenScript.cs" Line="5" Column="3" />
+      <File FileName="Assets\Scripts\UIcode\MainMenu.cs" Line="29" Column="1" />
+      <File FileName="Assets\Scripts\UIcode\parralax.cs" Line="21" Column="79" />
+      <File FileName="Assets\Scripts\UIcode\updateAmmo.cs" Line="29" Column="51" />
+      <File FileName="Assets\Scripts\UIcode\UpdateScore.cs" Line="29" Column="16" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
